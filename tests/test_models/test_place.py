@@ -193,7 +193,7 @@ class TestPlace_save(unittest.TestCase):
 
 
 class TestPlace_to_dict(unittest.TestCase):
-    
+
     """Tests for testing to_dict method of the Place class."""
 
     def test_to_dict_type(self):
