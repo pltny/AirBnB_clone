@@ -40,7 +40,7 @@ class TestFileStorage_instantiation(unittest.TestCase):
 
 
 class TestFileStorage_methods(unittest.TestCase):
-    
+
     """Tests for testing methods of the FileStorage class."""
 
     @classmethod

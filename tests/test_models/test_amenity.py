@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#testamenity.py
+# testamenity.py
 
 """Defines unittests for models/amenity.py. """
 import os

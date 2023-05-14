@@ -139,7 +139,7 @@ class TestUser_save(unittest.TestCase):
 
 
 class TestUser_to_dict(unittest.TestCase):
-    
+
     """Tests for testing to_dict method of the User class."""
 
     def test_to_dict_type(self):

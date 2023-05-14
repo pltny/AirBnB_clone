@@ -850,7 +850,7 @@ class TestHBNBCommand_all(unittest.TestCase):
 
 
 class TestHBNBCommand_update(unittest.TestCase):
-    
+
     """Unittests for testing update from the HBNB command interpreter."""
 
     @classmethod

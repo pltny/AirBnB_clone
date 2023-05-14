@@ -141,7 +141,7 @@ class TestCity_save(unittest.TestCase):
 
 
 class TestCity_to_dict(unittest.TestCase):
-    
+
     """Tests for testing to_dict method of the City class."""
 
     def test_to_dict_type(self):

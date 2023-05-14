@@ -145,7 +145,7 @@ class TestReview_save(unittest.TestCase):
 
 
 class TestReview_to_dict(unittest.TestCase):
-    
+
     """Tests for testing to_dict method of the Review class."""
 
     def test_to_dict_type(self):
