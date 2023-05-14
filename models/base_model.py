@@ -11,7 +11,7 @@ class BaseModel:
     """inherit"""
 
     def __init__(self, *args, **kwargs):
-        """Initializes 
+        """Initializes
 
         Args:
             - *args: arguments
